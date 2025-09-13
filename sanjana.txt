@@ -1,1 +1,1 @@
-this is my new guihsyhevdyrecbdcygenuyhbjhv
+print(tuples basics)
